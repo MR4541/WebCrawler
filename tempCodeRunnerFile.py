@@ -1,0 +1,1 @@
+stock_symbol = input("輸入四碼股票代號：") #type: str
